@@ -63,7 +63,7 @@ Se utilizaron librerías de visualización avanzada (Matplotlib, Seaborn y Plotl
 ## 3. RESULTADOS OBTENIDOS
 
 ### 3.1. KPIs y Resumen Ejecutivo
-![Dashboard de KPIs Comerciales](images/dashboard_kpi_python.png)
+![Dashboard de KPIs Comerciales](dashboard_kpi_python.png)
 
 
 **Figura 1: Dashboard de KPIs Comerciales.**
