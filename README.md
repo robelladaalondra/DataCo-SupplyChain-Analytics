@@ -4,8 +4,8 @@ End-to-end analytics on DataCo retail supply chain: ETL, KPI tracking (sales/mar
 
 **Título del Proyecto:** Optimización de la Cadena de Suministro y Análisis de Desempeño Comercial
 **Empresa:** DataCo Global (Retail / E-commerce)
-**Autor:** [Tu Nombre Completo]
-**Fecha:** [Fecha Actual]
+**Autor:** Alondra Robellada
+**Fecha:** Agosto 2026
 **Versión:** 1.0
 
 ---
@@ -64,7 +64,7 @@ Se utilizaron librerías de visualización avanzada (Matplotlib, Seaborn y Plotl
 
 ### 3.1. KPIs y Resumen Ejecutivo
 
-*[Insertar imagen: dashboard_kpi_python.png]*
+
 
 **Figura 1: Dashboard de KPIs Comerciales.**
 
