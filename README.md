@@ -153,7 +153,7 @@ El modelo predictivo desarrollado (AUC 0.72) es una herramienta viable para impl
 ## 7. ANEXOS
 
 - **Anexo A:** Script completo de Python (disponible en el repositorio de GitHub).
-- **Anexo B:** Dashboard interactivo en HTML (mapa y treemap).
+- **Anexo B:** Dashboard interactivo en HTML (mapa y treemap) y de Power BI
 - **Anexo C:** Tabla de frecuencias y estadísticas descriptivas.
 
 ---
